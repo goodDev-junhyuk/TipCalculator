@@ -14,7 +14,7 @@
 		BD1A5C782763150000E21076 /* TipCalculator.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = BD1A5C762763150000E21076 /* TipCalculator.xcdatamodeld */; };
 		BD1A5C7A2763150000E21076 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD1A5C792763150000E21076 /* Assets.xcassets */; };
 		BD1A5C7D2763150000E21076 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD1A5C7B2763150000E21076 /* LaunchScreen.storyboard */; };
-		BD3133A0276C77A0009A8362 /* Supporting Files in Resources */ = {isa = PBXBuildFile; fileRef = BD31339F276C77A0009A8362 /* Supporting Files */; };
+		BD3133A2276C79A5009A8362 /* Supporting Files in Resources */ = {isa = PBXBuildFile; fileRef = BD3133A1276C79A5009A8362 /* Supporting Files */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,7 +26,7 @@
 		BD1A5C772763150000E21076 /* TipCalculator.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = TipCalculator.xcdatamodel; sourceTree = "<group>"; };
 		BD1A5C792763150000E21076 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD1A5C7C2763150000E21076 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		BD31339F276C77A0009A8362 /* Supporting Files */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "Supporting Files"; path = "../../TipCalculatorStarter-master/TipCalculatorStarter/Supporting Files"; sourceTree = "<group>"; };
+		BD3133A1276C79A5009A8362 /* Supporting Files */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Supporting Files"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,7 +66,7 @@
 				BD1A5C792763150000E21076 /* Assets.xcassets */,
 				BD1A5C7B2763150000E21076 /* LaunchScreen.storyboard */,
 				BD1A5C762763150000E21076 /* TipCalculator.xcdatamodeld */,
-				BD31339F276C77A0009A8362 /* Supporting Files */,
+				BD3133A1276C79A5009A8362 /* Supporting Files */,
 			);
 			path = TipCalculator;
 			sourceTree = "<group>";
@@ -131,7 +131,7 @@
 			files = (
 				BD1A5C7D2763150000E21076 /* LaunchScreen.storyboard in Resources */,
 				BD1A5C7A2763150000E21076 /* Assets.xcassets in Resources */,
-				BD3133A0276C77A0009A8362 /* Supporting Files in Resources */,
+				BD3133A2276C79A5009A8362 /* Supporting Files in Resources */,
 				BD1A5C752763150000E21076 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
